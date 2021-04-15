@@ -7,7 +7,7 @@ The specification pattern as described by *Eric Evans* and *Martin Fowler*.
 
 ## Users
 
-We use it in the production at Czech Radio together with our repository classes, see the *[Repository Pattern](https://martinfowler.com/eaaCatalog/repository.html)*.
+It is used in production at Czech Radio together with our repository classes, see the *[Repository Pattern](https://martinfowler.com/eaaCatalog/repository.html)*.
 
 ## Getting Started
 
